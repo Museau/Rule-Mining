@@ -2,6 +2,9 @@
 
 This repository contains the code used for the experiments of the paper "Rule-Mining based classification: a benchmark study".
 
+## Launch the experiments
+To launch the experiments do: bash rule_mining/experiments/jobs/file_name.py, from the Rule-Mining directory.
+
 ## Attribution
 If you use this code, please cite:
 
