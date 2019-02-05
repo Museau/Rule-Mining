@@ -1,6 +1,6 @@
 # Rule-Mining
 
-This repository contains the code used for the experiments of the paper "Rule-Mining based classification: a benchmark study".
+This repository contains the code used for the experiments of the paper "[Rule-Mining based classification: a benchmark study](https://arxiv.org/pdf/1706.10199.pdf)".
 
 ## Launch the experiments
 To launch the experiments do: `bash rule_mining/experiments/jobs/file_name.py`, from the Rule-Mining directory.
